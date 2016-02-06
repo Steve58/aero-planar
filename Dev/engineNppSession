@@ -1,0 +1,22 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="552" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\vars.js" backupFilePath="" originalFileLastModifTimestamp="1454271044" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="496" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\utils.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="704" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\audio.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="944" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\block.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1288" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\buffer.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="944" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\camera.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="648" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\canvas.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1320" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\canvasPoint.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\canvasPolygon.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="704" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\control.js" backupFilePath="" originalFileLastModifTimestamp="1454277389" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="720" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\frame.js" backupFilePath="" originalFileLastModifTimestamp="1454262414" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="952" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\point.js" backupFilePath="" originalFileLastModifTimestamp="1454262255" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="480" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\polygon.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="680" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\toggle.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="832" startPos="0" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Stephen\Documents\Dev\aero-planar\AeroPlanar\scripts\engine\universe.js" backupFilePath="" originalFileLastModifTimestamp="1454261813" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

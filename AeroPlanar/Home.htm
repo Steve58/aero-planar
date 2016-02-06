@@ -1,0 +1,76 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Aero Planar</title>
+
+    <link rel="stylesheet" href="Site.css?v=1.0.0">
+    
+    <script type="text/javascript" src="scripts/shared/vars.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/shared/shared.js?v=1.0.0"></script>
+    
+    <script type="text/javascript" src="scripts/game/vars.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/game/flagMaps.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/game/home.js?v=1.0.0"></script>
+</head>
+<body>
+<nav>
+    <a id="home" href="Home.htm">Home</a>
+    <a id="info" href="Info.htm">Info</a>
+    <a id="menu" href="Menu.htm">Menu</a>
+</nav>
+<div id="pageWrapper">
+    <h1>
+        Aero Planar
+    </h1>
+    <div class="menu">
+        <div class="item">
+            <label for="map">
+                Map
+            </label>
+            <select id="map">
+                <option value="straight">Straight</option>
+                <option value="twist">Twist</option>
+                <option value="turn">Turn</option>
+                <option value="turns">Turns</option>
+                <option value="lap">Lap</option>
+                <option value="climb">Climb</option>
+                <option value="bridge">Bridge</option>
+                <option value="gaps">Gaps</option>
+                <option value="teleport">Teleport</option>
+                <option value="teleportGaps">Teleport Gaps</option>
+                <option value="cross">Cross</option>
+                <option value="doubleback">Double-back</option>
+                <option value="weave">Weave</option>
+                <option value="leap">Leap</option>
+                <option value="loop">Loop</option>
+                <option value="track01">Track One</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="sound">
+                Sound
+            </label>
+            <select id="sound">
+                <option value="false">Off</option>
+                <option value="true">On</option>
+            </select>
+        </div>
+        <div class="item">
+            <a id="goMouse" href="Game.htm">
+                Play - mouse control
+            </a>
+        </div>
+        <div class="item">
+            <a id="goMotion" href="Game.htm">
+                Play - motion control
+            </a>
+        </div>
+        <div class="item">
+            <a id="goTouch" href="Game.htm">
+                Play - touchscreen control
+            </a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

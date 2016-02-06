@@ -1,0 +1,123 @@
+﻿<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Aero Planar</title>
+
+    <link rel="stylesheet" href="Site.css?v=1.0.0">
+    
+    <script type="text/javascript" src="scripts/shared/vars.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/shared/shared.js?v=1.0.0"></script>
+    
+    <script type="text/javascript" src="scripts/game/vars.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/game/flagMaps.js?v=1.0.0"></script>
+    <script type="text/javascript" src="scripts/game/menu.js?v=1.0.0"></script>
+</head>
+<body>
+<nav>
+    <a id="home" href="Home.htm">
+        Home
+    </a>
+    <a id="info" href="Info.htm">
+        Info
+    </a>
+    <a id="menu" href="Menu.htm">
+        Menu
+    </a>
+</nav>
+<div id="pageWrapper">
+    <h1>
+        Aero Planar
+    </h1>
+    <h2>
+        Menu
+    </h2>
+    <div class="menu">
+        <div class="item">
+            <label for="cpuShipsN">
+                CPU Ships
+            </label>
+            <select id="cpuShipsN">
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="map">
+                Map
+            </label>
+            <select id="map">
+                <option value="straight">Straight</option>
+                <option value="twist">Twist</option>
+                <option value="turn">Turn</option>
+                <option value="turns">Turns</option>
+                <option value="lap">Lap</option>
+                <option value="climb">Climb</option>
+                <option value="bridge">Bridge</option>
+                <option value="gaps">Gaps</option>
+                <option value="teleport">Teleport</option>
+                <option value="teleportGaps">Teleport Gaps</option>
+                <option value="cross">Cross</option>
+                <option value="doubleback">Double-back</option>
+                <option value="weave">Weave</option>
+                <option value="leap">Leap</option>
+                <option value="loop">Loop</option>
+                <option value="track01">Track One</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="enableMotionControl">
+                Motion Control
+            </label>
+            <select id="enableMotionControl">
+                <option value="false">Disabled</option>
+                <option value="true">Enabled</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="sound">
+                Anti-aliasing
+            </label>
+            <select id="antiAliasing">
+                <option value="false">Off</option>
+                <option value="true">On</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="shading">
+                Shading
+            </label>
+            <select id="shading">
+                <option value="false">Off</option>
+                <option value="true">On</option>
+            </select>
+        </div>
+        <div class="item">
+            <label for="sound">
+                Sound
+            </label>
+            <select id="sound">
+                <option value="false">Off</option>
+                <option value="true">On</option>
+            </select>
+        </div>
+        <div class="item">
+            <a id="go" href="Game.htm">
+                Play
+            </a>
+        </div>
+        <div class="item" id="customMapItem" hidden>
+            <label for="customMap">
+                Custom Map
+            </label>
+            <textarea id="customMap">
+            </textarea>
+            <input type="hidden" id="editCustomMap" />
+        </div>
+    </div>
+</div>
+</body>
+</html>
