@@ -26,16 +26,12 @@ body {
 nav {
     width: 600;
     margin: 0 auto;
-    background-image: -webkit-linear-gradient(    left, transparent 25%, rgb(200,200,200) 25%, rgb(200,200,200) 75%, transparent 75%);
-    background-image:    -moz-linear-gradient(   right, transparent 25%, rgb(200,200,200) 25%, rgb(200,200,200) 75%, transparent 75%);
-    background-image:      -o-linear-gradient(   right, transparent 25%, rgb(200,200,200) 25%, rgb(200,200,200) 75%, transparent 75%);
-    background-image:         linear-gradient(to right, transparent 25%, rgb(200,200,200) 25%, rgb(200,200,200) 75%, transparent 75%);
 }
 
 nav a {
     display: inline-block;    
     padding: 10px 20px;
-    background-color: rgb(200,200,200);
+    background-color: rgba(0,0,0,0.05);
     font-size: 130%;
     color: #000;
     text-decoration: none;
@@ -51,7 +47,7 @@ nav a:last-of-type {
 }
 
 nav a:hover {
-    background-color: rgb(180,180,180);
+    background-color: rgba(0,0,0,0.10);
 }
 
 @media screen and (max-width: 620px) {
